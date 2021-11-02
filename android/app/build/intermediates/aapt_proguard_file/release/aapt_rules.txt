@@ -1,0 +1,8 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class com.example.capture_events.MainActivity { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class dev.fluttercommunity.plus.share.ShareFileProvider { <init>(); }
+-keep class dk.cachet.activity_recognition_flutter.ActivityRecognizedBroadcastReceiver { <init>(); }
+-keep class dk.cachet.activity_recognition_flutter.ActivityRecognizedService { <init>(); }
+-keep class dk.cachet.activity_recognition_flutter.ForegroundService { <init>(); }
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
